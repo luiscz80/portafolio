@@ -274,11 +274,20 @@ p code{
 .icon-VueJS{
     background-image:url(../svg/vuejs.svg)
 }
+.icon-Vuetify{
+    background-image:url(../svg/vuetify.svg)
+}
 .icon-PHP{
     background-image:url(../svg/php.svg)
 }
 .icon-Laravel{
     background-image:url(../svg/laravel.svg)
+}
+.icon-NodeJS{
+    background-image:url(../svg/nodejs.svg)
+}
+.icon-Swagger{
+    background-image:url(../svg/swagger.svg)
 }
 .icon-MySQL{
     background-image:url(../svg/mysql.svg)
